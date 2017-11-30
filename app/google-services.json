@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "726983729086",
+    "firebase_url": "https://pushfarah.firebaseio.com",
+    "project_id": "pushfarah",
+    "storage_bucket": "pushfarah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726983729086:android:db2add89f9d10320",
+        "android_client_info": {
+          "package_name": "com.example.farah.farah_pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726983729086-c1aa085v56hp4sdvb9q12j3l5eibk626.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQlaBqNHmdcXLU9fVFV4b534f5SE-s9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
